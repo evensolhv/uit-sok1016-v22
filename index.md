@@ -12,12 +12,10 @@ Innhold, læringsmål og studiepoengsreduksjon mot andre fag kan sees i [emnebes
 
 ## Faglærerinfo
 
-Faglærer er Even S. Hvinden. 
-E-post: [even.c.hvinden@uit.no](mailto:even.c.hvinden@uit.no)
-
-Kontor: 02.311, Handelshøyskolen ved UiT
-
-Telefon: 93043836
+- Faglærer er Even S. Hvinden. 
+- E-post: [even.c.hvinden@uit.no](mailto:even.c.hvinden@uit.no)
+- Kontor: 02.311, Handelshøyskolen ved UiT
+- Telefon: 93043836
 
 ## Pensum
 
