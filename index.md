@@ -5,6 +5,9 @@
 ## Kursplan
 En oppdatert timeplan er tilgjengelig på [timeplan.uit.no](timeplan.uit.no).
 
+## Kursbeskrivelse
+Kurset består av forelesninger og en seminarer. Forelesningene følger SOK-1010. Seminarene er kun for SOK-1016 og tar sikte på å anvende programmering i R og Python for å arbeide med innholdet fra forelesninger.
+
 ## Faglærerinfo
 
 Faglærer er Even S. Hvinden. 
