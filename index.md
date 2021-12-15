@@ -3,10 +3,17 @@
 <!-- Gjør endringer under her -->
 
 ## Kursplan
-- [Timeplan](timeplan.uit.no)
+En oppdatert timeplan er tilgjengelig på [timeplan.uit.no](timeplan.uit.no).
 
 ## Faglærerinfo
 
-Faglærer er Even S. Hvinden. -[even.c.hvinden@uit.no](mailto:even.c.hvinden@uit.no)
+Faglærer er Even S. Hvinden. 
+E-post: [even.c.hvinden@uit.no](mailto:even.c.hvinden@uit.no)
+Kontor: 02.311, Handelshøyskolen ved UiT
+Telefon: 93043836
 
 ## Pensum
+
+## Administrative spørsmål
+
+For henvendelser av administrative art send e-post til [hhcampus@hjelp.uit.no](mailto:hhcampus@hjelp.uit.no). 
