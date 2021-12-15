@@ -14,6 +14,8 @@ Telefon: 93043836
 
 ## Pensum
 
+Pensum er tilgjengelig på [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/searchlists/8721091880002205?auth=SAML).  
+
 ## Administrative spørsmål
 
 For henvendelser av administrative art send e-post til [hhcampus@hjelp.uit.no](mailto:hhcampus@hjelp.uit.no). 
