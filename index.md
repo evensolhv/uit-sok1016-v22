@@ -4,6 +4,7 @@
 
 ## Kursplan
 En oppdatert timeplan er tilgjengelig på [timeplan.uit.no](timeplan.uit.no).
+
 Se [forelesningsplan](forelesningsplan) for en foreløpig oversikt over forelesninger. 
 
 ## Kursbeskrivelse
