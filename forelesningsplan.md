@@ -8,7 +8,7 @@
 | 8 | 6 | Kapittel 6 |  Even S. Hvinden ||
 | 9 | 7 | Kapittel 7 |  Even S. Hvinden ||
 | 11 | 8 | Kapittel 8 |  Even S. Hvinden ||
-| 12 | 9 | Kapittel 9 |  Even S. Hvinden ||
+| 12 | 9 | Kapittel 9-10 |  Even S. Hvinden ||
 | 14 | 11 | Kapittel 11 |  Even S. Hvinden ||
 | 16 | 12 | Kapittel 12 |  Even S. Hvinden ||
 | 17 | 13 | Kapittel 13 |  Even S. Hvinden ||
