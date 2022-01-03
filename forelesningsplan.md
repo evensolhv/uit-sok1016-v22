@@ -13,4 +13,4 @@
 | 16 | 12 | Kapittel 12 |  Even S. Hvinden ||
 | 17 | 13 | Kapittel 13 |  Even S. Hvinden ||
 | 18 | 14 | Kapittel 14 |  Even S. Hvinden ||
-| 19 | 15 | Kapittel 15 |  Even S. Hvinden ||
+| 19 | 15 | Kapittel 15-16 |  Even S. Hvinden ||
