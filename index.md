@@ -2,6 +2,10 @@
 {% include navbar.html %} <!-- Kode for navigasjonsmeny. Se navbar.html for å gjøre endringer. -->
 <!-- Gjør endringer under her -->
 
+## Siste beskjed
+
+Vi er pålagt å ha digital undervisning ut januar. Første forelesning blir onsdag 12. januar 14:15-16:00. Du kan følge forelesningen ved å trykke [her](https://uit.zoom.us/j/66289241331?pwd=aDlHT3dpbC92T2NDYjhTYTZxVU9JUT09).  
+
 ## Kursplan
 Se [forelesningsplan](forelesningsplan.md) og [seminarplan](seminarplan.md) for en oversikt over forelesninger, med tema og eventuelle andre ressurser. 
 
