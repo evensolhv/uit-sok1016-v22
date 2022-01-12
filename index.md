@@ -16,7 +16,9 @@ Se [forelesningsplan](forelesningsplan.md) og [seminarplan](seminarplan.md) for 
 **NB!** Merk at endringer kan forekomme. En oppdatert plan med tidspunkt og undervisningssted er alltid tilgjengelig på [timeplan.uit.no](timeplan.uit.no). Følg med på denne.   
 
 ## Kursbeskrivelse
-Kurset består av forelesninger, øvinger og seminarer. Forelesningene og øvingene følger SOK-1010. Seminarene er kun for SOK-1016 og tar sikte på å anvende programmering i R og Python for å arbeide med stoff fra forelesninger.
+For de som går Samfunnsøkonomi med datavitenskap heter kurset SOK-1016. For alle andre heter det SOK-1010. Kursene består av forelesninger, øvinger og seminarer. SOK-1010 følger kun øvinger og forelesninger. Seminarene er kun for SOK-1016 og tar sikte på å anvende programmering i R og Python for å arbeide med stoff fra forelesninger.
+
+De som tar SOK-1010 må bestå to arbeidskrav og vil bli vurdert på eksamen. De som tar SOK-1016 må bestå eksamen og vil bli vurdert på en mappeinnlevering. 
 
 Se [emnebeskrivelsen](https://uit.no/utdanning/emner/emne/743171/sok-1016) for detaljert informasjon. 
 
