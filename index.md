@@ -26,7 +26,9 @@ Faglærer er Even S. Hvinden.
 
 ## Pensum
 
-Pensum er tilgjengelig på [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/searchlists/8721091880002205?auth=SAML).  
+Pensum er tilgjengelig på [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/searchlists). 
+
+**NB!** Søk på SOK-1010. 
 
 ## Administrative spørsmål
 
