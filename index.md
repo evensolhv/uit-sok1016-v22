@@ -12,7 +12,7 @@ Se [forelesningsplan](forelesningsplan.md) og [seminarplan](seminarplan.md) for 
 **NB!** Merk at endringer kan forekomme. En oppdatert plan med tidspunkt og undervisningssted er alltid tilgjengelig på [timeplan.uit.no](timeplan.uit.no). Følg med på denne.   
 
 ## Kursbeskrivelse
-Kurset består av forelesninger og en seminarer. Forelesningene følger SOK-1010. Seminarene er kun for SOK-1016 og tar sikte på å anvende programmering i R og Python for å arbeide med stoff fra forelesninger.
+Kurset består av forelesninger, øvinger og seminarer. Forelesningene og øvingene følger SOK-1010. Seminarene er kun for SOK-1016 og tar sikte på å anvende programmering i R og Python for å arbeide med stoff fra forelesninger.
 
 Se [emnebeskrivelsen](https://uit.no/utdanning/emner/emne/743171/sok-1016) for detaljert informasjon. 
 
