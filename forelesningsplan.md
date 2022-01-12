@@ -1,5 +1,5 @@
 | Uke | Forelesning | Tema | Foreleser | Ressurser | 
-| 2 | 0 | Introduksjon |  Even S. Hvinden | [Lysbilder](https://www.dropbox.com/s/vtcjmgfz6qo0din/forelesning_1_sok1010_v21.pdf?dl=0) |
+| 2 | 0 | Introduksjon |  Even S. Hvinden | [Lysbilder](https://www.dropbox.com/s/04d7detrng2hw51/forelesning_1_sok1010_1016_v22.pdf?dl=0) |
 | 3 | 1 | Kapittel 1 |  Even S. Hvinden ||
 | 4 | 2 | Kapittel 2 |  Even S. Hvinden ||
 | 5 | 3 | Kapittel 3 |  Even S. Hvinden ||
