@@ -1,5 +1,5 @@
 | Uke | Forelesning | Tema | Foreleser | Ressurser | 
-| 2 | 0 | Introduksjon |  Even S. Hvinden | [Lysbilder](https://www.dropbox.com/s/04d7detrng2hw51/forelesning_1_sok1010_1016_v22.pdf?dl=0), [opptak av forelesning](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ac9f74c5-f849-4951-90d9-ae1c007e92c1) |
+| 2 | 0 | Introduksjon |  Even S. Hvinden | [Lysbilder](https://www.dropbox.com/s/04d7detrng2hw51/forelesning_1_sok1010_1016_v22.pdf?dl=0), [opptak av forelesning](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ac9f74c5-f849-4951-90d9-ae1c007e92c1), [hefte](https://www.dropbox.com/s/qlh9vo171ldm4yb/hefte.pdf?dl=0) med øvingsoppgaver |
 | 3 | 1 | Kapittel 1 |  Even S. Hvinden ||
 | 4 | 2 | Kapittel 2 |  Even S. Hvinden ||
 | 5 | 3 | Kapittel 3 |  Even S. Hvinden ||
