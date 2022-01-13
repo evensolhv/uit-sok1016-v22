@@ -12,6 +12,10 @@ ii)   For studentene i SOK-1016 blir det ikke oppstartsmøte fredag 14. januar, 
 
 iii)  Øvingene vil begynne i uke 6 og bli avholdt omtrent annenhver uke. De vil typisk dekke to kapitler i pensum. Det kommer en oppdatering så snart vi vet mer om reglene rundt smittevern. 
 
+## Opptak
+
+Trykk [video](her) for å se opptak av forelesninger. 
+
 ## Kursplan
 Se [forelesningsplan](forelesningsplan.md) og [seminarplan](seminarplan.md) for en oversikt over forelesninger, med tema, lysbilder og eventuelle andre ressurser. 
 
