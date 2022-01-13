@@ -1,3 +1,7 @@
+{% include top-box.html %} <!-- Kode for å inkludere boksen på toppen av siden. Se _config.yml for å gjøre endringer. -->
+{% include navbar.html %} <!-- Kode for navigasjonsmeny. Se navbar.html for å gjøre endringer. -->
+<!-- Gjør endringer under her -->
+
 | Uke | Seminar | Tema | Foreleser | Ressurser | 
 | 9 | 1 |  | Even S. Hvinden |   |
 | 11 | 2 |  | Even S. Hvinden |   |
