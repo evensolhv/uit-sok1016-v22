@@ -14,7 +14,7 @@ iii)  Øvingene vil begynne i uke 6 og bli avholdt omtrent annenhver uke. De vil
 
 ## Opptak
 
-Trykk [video](her) for å se opptak av forelesninger. 
+Trykk [her](video) for å se opptak av forelesninger. 
 
 ## Kursplan
 Se [forelesningsplan](forelesningsplan.md) og [seminarplan](seminarplan.md) for en oversikt over forelesninger, med tema, lysbilder og eventuelle andre ressurser. 
