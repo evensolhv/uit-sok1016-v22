@@ -7,8 +7,10 @@
 Vi er pålagt å ha digital undervisning ut januar. Førstkommende forelesning blir tirsdag 18. januar 10:15-12:00. Du kan følge forelesningen ved å trykke [her](https://uit.zoom.us/j/62106111688?pwd=UDM0OGo1L1dmWHQ1Ky9PTFJHbWJTdz09).  
 
 i)    Administrasjonen er i gang med å gi studentene i SOK-1016 tilgang til fellesrommet til SOK-1010.
+
 ii)   For studentene i SOK-1016 blir det ikke oppstartsmøte fredag 14. januar, som det tidligere har stått på timeplan.uit.no. Det var en feil.   
-iiI)  Øvingene vil begynne i uke 6 og bli avholdt omtrent annenhver uke. De vil typisk dekke to kapitler i pensum. Det kommer en oppdatering så snart vi vet mer om reglene rundt smittevern. 
+
+iii)  Øvingene vil begynne i uke 6 og bli avholdt omtrent annenhver uke. De vil typisk dekke to kapitler i pensum. Det kommer en oppdatering så snart vi vet mer om reglene rundt smittevern. 
 
 ## Kursplan
 Se [forelesningsplan](forelesningsplan.md) og [seminarplan](seminarplan.md) for en oversikt over forelesninger, med tema, lysbilder og eventuelle andre ressurser. 
