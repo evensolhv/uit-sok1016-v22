@@ -8,9 +8,9 @@ Vi er pålagt å ha digital undervisning ut januar. Førstkommende forelesning b
 
 fredag 14. januar:
 
-i) UiT har kommet med oppdaterte smittevernsregler. Det blir digital undervisning ut januar. Fra februar regner jeg med å undervise fysisk. 
+i) UiT har kommet med oppdaterte smittevernsregler. Det blir digital undervisning ut januar. Fra februar av planlegger jeg å undervise fysisk. 
 
-ii) De som tar SOK-1016 skal ikke ta eksamen i SOK-1010. Jeg beklager, dette var en misforståelse fra min side.  
+ii) De som tar SOK-1016 skal **ikke** bestå eksamen i SOK-1010. Jeg beklager feilinformasjon, dette var en misforståelse fra min side. Dere blir altså kun vurdert på mappeinnlevering.   
 
 torsdag 13. januar:
 
