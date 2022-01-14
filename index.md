@@ -6,11 +6,20 @@
 
 Vi er pålagt å ha digital undervisning ut januar. Førstkommende forelesning blir tirsdag 18. januar 10:15-12:00. Du kan følge forelesningen ved å trykke [her](https://uit.zoom.us/j/62106111688?pwd=UDM0OGo1L1dmWHQ1Ky9PTFJHbWJTdz09).  
 
+fredag 14. januar:
+
+i) UiT har kommet med oppdaterte smittevernsregler. Det blir digital undervisning ut januar. Fra februar regner jeg med å undervise fysisk. 
+
+ii) De som tar SOK-1016 skal ikke ta eksamen i SOK-1010. Jeg beklager, dette var en misforståelse fra min side.  
+
+torsdag 13. januar:
+
 i)    Administrasjonen er i gang med å gi studentene i SOK-1016 tilgang til fellesrommet til SOK-1010. Der får dere tilgang til videoforelesninger og mye annet innhold. I mellomtiden kan dere kikke på et [hefte](https://www.dropbox.com/s/qlh9vo171ldm4yb/hefte.pdf?dl=0) jeg lagde i fjor, med øvingsoppgaver til matematikken. 
 
 ii)   For studentene i SOK-1016 blir det **ikke** oppstartsmøte fredag 14. januar, som det tidligere har stått på timeplan.uit.no. Det var en feil.   
 
-iii)  Øvingene vil begynne i uke 6 og bli avholdt omtrent annenhver uke. De vil typisk dekke to kapitler i pensum. Det kommer en oppdatering så snart vi vet mer om reglene rundt smittevern. 
+iii)  Øvingene i SOK-1010 vil begynne i uke 6 og bli avholdt omtrent annenhver uke. De vil typisk dekke to kapitler i pensum. Med mindre reglene for smittevern endres vil disse bli undervist fysik. 
+
 
 ## Opptak
 
@@ -22,9 +31,9 @@ Se [forelesningsplan](forelesningsplan.md) og [seminarplan](seminarplan.md) for 
 **NB!** Merk at endringer kan forekomme. En oppdatert plan med tidspunkt og undervisningssted er alltid tilgjengelig på [timeplan.uit.no](timeplan.uit.no). Følg med på denne.   
 
 ## Kursbeskrivelse
-De som går programmet samfunnsøkonomi med datavitenskap tar SOK-1016. Alle andre tar SOK-1010. De som tar SOK-1010 må bestå to arbeidskrav og vil bli vurdert på eksamen. De som tar SOK-1016 må bestå eksamen og vil bli vurdert på en mappeinnlevering hvor dere anvender Python og R for å arbeide med stoff fra forelesninger. 
+De som går programmet samfunnsøkonomi med datavitenskap tar SOK-1016. Alle andre tar SOK-1010. De som tar SOK-1010 må bestå to arbeidskrav og vil bli vurdert på eksamen. De som tar SOK-1016 vil bli vurdert på en mappeinnlevering hvor dere anvender Python og R for å arbeide med stoff fra forelesninger. 
 
-Felles for SOK-1010 og 1016 er forelesninger og øvinger. SOK-1010 følger kun øvinger og forelesninger. De som tar SOK-1016 er anbefalt å følge seminarrekken (workshops). Seminarene tar sikte på å gi dere fortløpende tilbakemeldinger på mappeinnleveringene.  
+Forelesninger er felles for SOK-1010 og 1016 . SOK-1010 følger øvinger og forelesninger. De som tar SOK-1016 følger egne seminarer. Seminarene tar sikte på å bistå dere med å regne oppgaver samt dere fortløpende tilbakemeldinger på mappeinnleveringene.  
 
 Se [emnebeskrivelsen](https://uit.no/utdanning/emner/emne/743171/sok-1016) for detaljert informasjon. 
 
