@@ -4,7 +4,7 @@
 
 ## Siste beskjeder
 
-Vi er pålagt å ha digital undervisning ut januar. Førstkommende forelesning blir tirsdag 18. januar 10:15-12:00. Du kan følge forelesningen ved å trykke [her](https://uit.zoom.us/j/62106111688?pwd=UDM0OGo1L1dmWHQ1Ky9PTFJHbWJTdz09).  
+Vi er pålagt å ha digital undervisning ut januar. Den neste forelesningen blir tirsdag 25. januar 10:15-12:00. Du kan følge forelesningen ved å trykke [her](https://uit.zoom.us/j/68295375188?pwd=MmVodHJGTVFpWlM0WUlkNVNSckRlUT09).  
 
 fredag 14. januar:
 
