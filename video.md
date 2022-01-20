@@ -5,3 +5,7 @@
 ## Forelesning 1 
 
 Trykk [her](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ac9f74c5-f849-4951-90d9-ae1c007e92c1) for å se forelesning 1 i Panopto.
+
+## Forelesning 2
+
+Trykk [her](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8b5f747a-777b-47a2-97a2-ae2100be8f84) for å se forelesning 1 i Panopto.
