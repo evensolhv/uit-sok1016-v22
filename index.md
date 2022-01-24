@@ -4,7 +4,7 @@
 
 ## Siste beskjeder
 
-Vi er pålagt å ha digital undervisning ut januar. Den neste forelesningen blir tirsdag 25. januar 10:15-12:00. Du kan følge forelesningen ved å trykke [her](https://uit.zoom.us/j/68295375188?pwd=MmVodHJGTVFpWlM0WUlkNVNSckRlUT09).  
+**NB!** Undervisningen er flyttet fra tirsdag 25. januar 10:15-12:00 til torsdag 27. januar 12:15 - 14:00 på grunn av sykt barn. Du kan følge forelesningen ved å trykke [her](https://uit.zoom.us/j/68295375188?pwd=MmVodHJGTVFpWlM0WUlkNVNSckRlUT09).  
 
 fredag 14. januar:
 
