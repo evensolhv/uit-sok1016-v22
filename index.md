@@ -6,6 +6,10 @@
 
 **NB!** Undervisningen er flyttet fra tirsdag 25. januar 10:15-12:00 til torsdag 27. januar 12:15 - 14:00 på grunn av sykt barn. Du kan følge forelesningen ved å trykke [her](https://uit.zoom.us/j/68295375188?pwd=MmVodHJGTVFpWlM0WUlkNVNSckRlUT09).  
 
+torsdag 27. januar
+
+Seminarene til SOK-1010 for uke 5 er publisert. Se [timeplan.uit.no](timeplan.uit.no) for tidspunkt. Vi må fordele oss på tvers av grupper. Jeg har lagt til en modul i Canvas-rommet til SOK-1010 som heter "Velg seminargruppe." Gå inn der og rediger siden etter de angitte instruksjonene. Takk!
+
 tirsdag 25. januar
 
 Jeg har ikke publisert noen tidspunkt for oppstart på seminarene. Det er fordi jeg venter fortsatt på avklaring fra ledelsen om hvorvidt det blir tillatt med fysisk undervisning i februar. Hvis jeg ikke får svar snart vil jeg sette de første seminarene opp fysisk slik at dere kan få planlagt. Takk for tålmodigheten!
