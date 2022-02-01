@@ -4,7 +4,7 @@
 
 ## Siste beskjeder
 
-**NB!** Undervisningen er flyttet fra tirsdag 25. januar 10:15-12:00 til torsdag 27. januar 12:15 - 14:00 på grunn av sykt barn. Du kan følge forelesningen ved å trykke [her](https://uit.zoom.us/j/68295375188?pwd=MmVodHJGTVFpWlM0WUlkNVNSckRlUT09).  
+**NB!** Neste undervisning er mandag 7. februar. Du kan følge forelesningen via Zoom ved å trykke [her](https://uit.zoom.us/j/64773985432?pwd=S0MzbUpJSEpKMmJiRlJmTm4ycWFxQT09).  
 
 torsdag 27. januar
 
