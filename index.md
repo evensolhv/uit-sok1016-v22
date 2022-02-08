@@ -2,13 +2,17 @@
 {% include navbar.html %} <!-- Kode for navigasjonsmeny. Se navbar.html for å gjøre endringer. -->
 <!-- Gjør endringer under her -->
 
-## Siste beskjeder
+## Siste beskjed
 
 **NB!** Jeg har fått omgangssyken og må dessverre **avlyse** undervisning mandag 7. februar. Siden vi er tidlig i semesteret skal vi fint greie å hente oss inn igjen. Neste undervisning blir derfor **fredag 11. februar**. Du kan følge forelesningen via Zoom ved å trykke [her](https://uit.zoom.us/j/64773985432?pwd=S0MzbUpJSEpKMmJiRlJmTm4ycWFxQT09).  
 
+## Tidligere beskjeder
+
+Tidligere beskjeder kan dere lese [her](beskjeder.md).
+
 ## Opptak
 
-Trykk [her](video) for å se opptak av forelesninger. 
+Trykk [her](video.md) for å se opptak av forelesninger. 
 
 ## Kursplan
 
