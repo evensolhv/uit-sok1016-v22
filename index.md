@@ -10,7 +10,7 @@ P.S.
 
 SOK-1010: Første arbeidskrav blitt lagt ut på fellessiden. Den tar samme form som eksamen. 
 
-SOK-1016: Jeg vil legge ut første case i løpet av mandag.
+SOK-1016: Jeg vil legge ut første case i løpet av mandag 14. februar.
 
 ## Tidligere beskjeder
 
