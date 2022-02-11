@@ -4,7 +4,7 @@
 
 ## Siste beskjed
 
-Neste undervisning er **fredag 11. februar** 12:15-14:00. Du kan følge forelesningen fysisk eller via Zoom ved å trykke [her](https://uit.zoom.us/j/63687458052?pwd=NE5VRW00YmsxeDNTR2NwR0VjdzdhUT09).  
+Hallo, jeg beklager at det ble rot på forelesningen fredag 11. februar. Overgangen fra USB-C til HDMI fungerte ikke. Jeg vil fikse dette til nese forelesning. Jeg vil goså sikte på å strømme neste forelesning på Panopto, ikke Zoom. God helg. 
 
 ## Tidligere beskjeder
 
