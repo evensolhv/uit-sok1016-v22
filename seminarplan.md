@@ -3,7 +3,7 @@
 <!-- Gjør endringer under her -->
 
 | Uke | Seminar | Tema | Foreleser | Ressurser | 
-| 9 | 1 | Hjelp til case 1 | Even S. Hvinden | Last ned Case 1 [https://www.dropbox.com/s/p4fcefu1vix5ay0/sok1016_case_1.pdf?dl=0](her) |
+| 9 | 1 | Hjelp til case 1 | Even S. Hvinden | Last ned Case 1 [her](https://www.dropbox.com/s/p4fcefu1vix5ay0/sok1016_case_1.pdf?dl=0). |
 | 11 | 2 |  | Even S. Hvinden |   |
 | 12 | 3 |  | Even S. Hvinden |   |
 | 13 | 4 |  | Even S. Hvinden |   |
