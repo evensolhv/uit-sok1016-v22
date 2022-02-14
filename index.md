@@ -30,7 +30,7 @@ Se [forelesningsplan](forelesningsplan.md) for en oversikt over forelesninger, m
 
 De som tar SOK-1010 kan se seminaroppgavene [her](seminaroppgaver.md).
 
-## Seminarer SOK-1016.
+## Seminarer SOK-1016
 
 De som tar SOK-1010 kan se case og annen informasjon [her](seminarplan.md).
 
