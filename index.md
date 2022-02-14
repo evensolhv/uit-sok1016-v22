@@ -18,7 +18,7 @@ Tidligere beskjeder kan dere lese [her](beskjeder.md).
 
 ## Opptak
 
-Trykk [her](video.md) for å se opptak av forelesninger. 
+Trykk på Panopto Video i fanen til venstre for å se opptak av forelesninger. 
 
 ## Kursplan
 
