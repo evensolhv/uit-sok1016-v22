@@ -1,3 +1,13 @@
+## Fredag 11. februar
+
+Hallo, jeg beklager at det ble rot på forelesningen fredag 11. februar. Overgangen fra USB-C til HDMI fungerte ikke. Jeg vil fikse dette til nese forelesning. Jeg vil goså sikte på å strømme neste forelesning på Panopto, ikke Zoom. God helg. 
+
+P.S.
+
+SOK-1010: Første arbeidskrav blitt lagt ut på fellessiden. Den tar samme form som eksamen. 
+
+SOK-1016: Jeg vil legge ut første case i løpet av mandag 14. februar.
+
 ## Torsdag 27. januar
 
 
