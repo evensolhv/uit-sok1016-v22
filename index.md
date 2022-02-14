@@ -4,13 +4,9 @@
 
 ## Siste beskjed
 
-Hallo, jeg beklager at det ble rot på forelesningen fredag 11. februar. Overgangen fra USB-C til HDMI fungerte ikke. Jeg vil fikse dette til nese forelesning. Jeg vil goså sikte på å strømme neste forelesning på Panopto, ikke Zoom. God helg. 
+Førstkommende forelesning blir tirsdag 15. februar 12:15-14:00.
 
-P.S.
-
-SOK-1010: Første arbeidskrav blitt lagt ut på fellessiden. Den tar samme form som eksamen. 
-
-SOK-1016: Jeg vil legge ut første case i løpet av mandag 14. februar.
+SOK-1016: Første case er lagt ut [her](seminarplan.md). Det første seminaret vil bli brukt til å besvare spørsmål relatert til koding av analysen i R.  
 
 ## Tidligere beskjeder
 
