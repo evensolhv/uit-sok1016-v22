@@ -6,7 +6,7 @@
 
 Førstkommende forelesning blir tirsdag 15. februar 12:15-14:00. Jeg vil ikke lengre strømme forelesningene på Zoom, men opptak blir lagt ut på Panopto. 
 
-SOK-1016: Første case er lagt ut [her](seminarplan.md). Det første seminaret vil bli brukt til å besvare spørsmål relatert til koding av analysen i R.  
+**SOK-1016:** Første case er lagt ut [her](seminarplan.md). Seminaret i uke 9 vil bli brukt til å besvare spørsmål relatert til koding av analysen i R. Det er lov å samarbeide på oppgaven i grupper på opptil 3 personer. Jeg vil straks opprette et Canvas-rom hvor dere frivillig kan levere besvarelsen før 21. mars for å få tilbakmelding.    
 
 ## Tidligere beskjeder
 
