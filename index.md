@@ -22,13 +22,18 @@ Trykk [her](video.md) for å se opptak av forelesninger.
 
 ## Kursplan
 
-Se [forelesningsplan](forelesningsplan.md) og [seminarplan](seminarplan.md) for en oversikt over forelesninger, med tema, lysbilder og eventuelle andre ressurser. 
+Se [forelesningsplan](forelesningsplan.md) for en oversikt over forelesninger, med tema, lysbilder og eventuelle andre ressurser. 
 
 **NB!** Merk at endringer kan forekomme. En oppdatert plan med tidspunkt og undervisningssted er alltid tilgjengelig på [timeplan.uit.no](timeplan.uit.no). Følg med på denne.   
 
 ## Seminaroppgaver SOK-1010
 
 De som tar SOK-1010 kan se seminaroppgavene [her](seminaroppgaver.md).
+
+## Seminarer SOK-1016.
+
+De som tar SOK-1010 kan se case og annen informasjon [her](seminarplan.md).
+
 
 ## Kursbeskrivelse
 De som går programmet samfunnsøkonomi med datavitenskap tar SOK-1016. Alle andre tar SOK-1010. De som tar SOK-1010 må bestå to arbeidskrav og vil bli vurdert på eksamen. De som tar SOK-1016 vil bli vurdert på en mappeinnlevering hvor dere anvender Python og R for å arbeide med stoff fra forelesninger. 
