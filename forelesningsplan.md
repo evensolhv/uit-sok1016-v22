@@ -7,7 +7,7 @@
 | 3 | 1 | Kapittel 1,2 |  Even S. Hvinden | [Lysbilder](https://www.dropbox.com/s/nk3c61y3hpgz41v/forelesning_2_sok1010_1016_v22.pdf?dl=0), [opptak](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8b5f747a-777b-47a2-97a2-ae2100be8f84)|
 | 4 | 2 | Kapittel 3 |  Even S. Hvinden |[Lysbilder](https://www.dropbox.com/s/i5etkpf2mkhff5l/forelesning_3_sok1010_1016_v22.pdf?dl=0), [opptak](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c347ae9f-3b3e-43bb-80fa-ae2e0088c37c)|
 | 6 | 4 | Kapittel 4-5 |  Even S. Hvinden | [Lysbilder](https://www.dropbox.com/s/ayc3bq6sicimyb3/forelesning_4_sok1010_1016_v22.pdf?dl=0)|
-| 7 | 5 | Kapittel 6 |  Even S. Hvinden ||
+| 7 | 5 | Kapittel 6 |  Even S. Hvinden |NB! Ingen lysbilder. Notater legges ut etter forelesning.|
 | 8 | 6 | Kapittel 7 |  Even S. Hvinden ||
 | 9 | 7 | Kapittel 8 |  Even S. Hvinden ||
 | 11 | 8 | Kapittel 9-10 |  Even S. Hvinden ||
