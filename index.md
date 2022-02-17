@@ -28,7 +28,7 @@ De som tar SOK-1010 kan se seminaroppgavene [her](seminaroppgaver.md).
 
 ## Seminarer SOK-1016
 
-De som tar SOK-1010 kan se case og annen informasjon [her](seminarplan.md).
+De som tar SOK-1016 kan se informasjon om undervisning utover forelesninger [her](seminarplan.md).
 
 
 ## Kursbeskrivelse
