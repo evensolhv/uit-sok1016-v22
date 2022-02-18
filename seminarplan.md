@@ -19,3 +19,5 @@
 Case 1 er tilgjengelig og kan lastes ned [her](https://www.dropbox.com/s/p4fcefu1vix5ay0/sok1016_case_1.pdf?dl=0). Besvarelsen vil telle 25% av sluttkarakteren. Frist for å levere blir fredag 1. april. Dere har mulighet til å levere én gang før 21. mars og få tilbakemelding på oppgaven. Jeg har opprettet et Canvas-rom for dette formålet. Dette er et frivillig tilbud.
 
 Det er tillat å arbeide i grupper. Det viser seg at den del gruppearbeid ender i konflikt rett før innleveringsfristen. Etter råd fra administrasjonen vil jeg derfor at dere fyller ut [denne](https://www.dropbox.com/s/kpb0t4vf29ska6m/kontrakt%20gruppearbeid.pdf?dl=0) kontrakten dersom dere skal arbeide i gruppe. Lever denne før 20. mars i det tilhørende Canvas-rommet. 
+
+**Tips.** Torsdag 17. februar holdt sentralbanksjef Øystein Olsen sin årlige tale. Den er tilgjengelig [her](https://www.norges-bank.no/contentassets/e48efa88ad634b0e9d1442b2243f6e7f/arstalen-2022.pdf?v=02/17/2022142725&ft=.pdf). På side 8 diskuterer han kort utsiktene for kraftprisens virkning på den prisveksten.    
