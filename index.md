@@ -4,7 +4,7 @@
 
 ## Siste beskjed
 
-**Opptak forelesning 7, og fremover.** Det viser seg at automatisk opptak av forelesninger kun var booket frem til uke 8, noe jeg ikke var klar over. Forelesning 7 ble derfor ikke tatt opp. Jeg beklager! I SOK-1010 foreslår jeg at dere ser på fjorårets video til kapittel 9 som ligger på den felles Canvassiden. I SOK-1016 vil vi kjøre på med ekstra oppgaver for IS-RR-PK-modellen i seminarundervisningen. Jeg har fått et signal fra ledelsen at vi som regel ikke skal strømme eller ta opp forelesninger. Jeg kommer likevel til å ta opp forelesningene siden jeg har gitt beskjed om dette tidligere. 
+**SOK-1016 17 mars** Min sønn har feber og jeg må bli hjemme. Jeg har bedt Øystein Myrland om å vikariere for seminaret i dag. 
 
 **SOK-1016:** Første case er lagt ut [her](seminarplan.md). Seminaret i uke 9 vil bli brukt til å besvare spørsmål relatert til koding av analysen i R. Det er lov å samarbeide på oppgaven i grupper på opptil 3 personer. Jeg vil straks opprette et Canvas-rom hvor dere frivillig kan levere besvarelsen før 21. mars for å få tilbakmelding.    
 
