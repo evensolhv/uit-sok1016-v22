@@ -11,8 +11,8 @@
 | 8 | 6 | Kapittel 7-8 |  Even S. Hvinden | [Notater](https://www.dropbox.com/s/074bcfldoea8ero/notat_forelesning_6_sok1010.pdf?dl=0) |
 | 9 | 7 | Kapittel 9 |  Even S. Hvinden | [Notater](https://www.dropbox.com/s/5zwil8x3u4ipb1j/Note%2028%20Feb%202022.pdf?dl=0)|
 | 11 | 8 | Kapittel 10 |  Even S. Hvinden |[Notater](https://www.dropbox.com/s/cni909cql57umrx/notat%20forelesning%208.pdf?dl=0)|
-| 12 | 9 | Kapittel 11 |  Even S. Hvinden ||
-| 14 | 11 | Kapittel 12 |  Even S. Hvinden ||
-| 16 | 12 | Kapittel 13 |  Even S. Hvinden ||
-| 17 | 13 | Kapittel 14 |  Even S. Hvinden ||
-| 18 | 14 | Kapittel 15-16 |  Even S. Hvinden ||
+| 12 | 9 | Kapittel 11 |  Even S. Hvinden |[Notater](https://www.dropbox.com/s/0walivg15p3mk3s/Notat%20forelesning%209.pdf?dl=0)|
+| 14 | 11 | Kapittel 13 |  Even S. Hvinden ||
+| 16 | 12 | Kapittel 14 |  Even S. Hvinden ||
+| 17 | 13 | Kapittel 15 |  Even S. Hvinden ||
+| 18 | 14 | Kapittel 16 |  Even S. Hvinden ||
