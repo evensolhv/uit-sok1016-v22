@@ -10,7 +10,7 @@
 
 **SOK-1016, 31. mars og 1. april:** Vi går gjennom oppgave 8.1, 8.2, 9.4, og 9.5 fra oppgaveboken. Dette er teori som er nødvendig å kunne til case 2. 
 
-**SOK-1016:** Første case er lagt ut [her](seminarplan.md). Seminaret i uke 9 vil bli brukt til å besvare spørsmål relatert til koding av analysen i R. Det er lov å samarbeide på oppgaven i grupper på opptil 3 personer. Jeg vil straks opprette et Canvas-rom hvor dere frivillig kan levere besvarelsen før 21. mars for å få tilbakmelding.   
+**SOK-1016:** Case 2 er lagt ut [her](seminarplan.md). Seminaret i uke 13 og 14 vil bli brukt henholdsvis til å løse relevante oppgaver fra pensum og å få tilbakemelding på arbeidet. Det er lov å samarbeide på oppgaven i grupper på opptil 3 personer. Jeg vil straks opprette et Canvas-rom hvor dere frivillig kan levere besvarelsen før 18. april for å få tilbakmelding.   
 
 ## Tidligere beskjeder
 
