@@ -4,6 +4,8 @@
 
 ## Siste beskjed
 
+** Forelesning tirsdag 5. april ** På tirsdag 5. april vil jeg forelese om finansmarkedet, kapittel 13. Kapittel 12 er kort og i stor grad dekket av tidligere forelesninger, så jeg lar denne være selvstudie. Opptak fra i fjor er tilgjengelige på kursets fellesrom. 
+
 **SOK-1010 og SOK-1016 23 mars** Jeg har omsider også blitt syk. Resterende undervisning i uke 12 avlyses. Tilbakemelding til case 1 i SOK-1016 blir utsatt. Jeg har derfor flyttet innleveringsfristen frem med én uke til 8 april i WiseFlow. 
 
 **SOK-1016:** Første case er lagt ut [her](seminarplan.md). Seminaret i uke 9 vil bli brukt til å besvare spørsmål relatert til koding av analysen i R. Det er lov å samarbeide på oppgaven i grupper på opptil 3 personer. Jeg vil straks opprette et Canvas-rom hvor dere frivillig kan levere besvarelsen før 21. mars for å få tilbakmelding.   
