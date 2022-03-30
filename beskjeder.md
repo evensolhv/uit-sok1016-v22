@@ -1,3 +1,7 @@
+## Torsdag 17. mars
+
+Min sønn har feber og jeg må bli hjemme. Jeg har bedt Øystein Myrland om å vikariere for seminaret i dag. 
+
 ## Fredag 11. februar
 
 Hallo, jeg beklager at det ble rot på forelesningen fredag 11. februar. Overgangen fra USB-C til HDMI fungerte ikke. Jeg vil fikse dette til nese forelesning. Jeg vil goså sikte på å strømme neste forelesning på Panopto, ikke Zoom. God helg. 
