@@ -5,9 +5,9 @@
 | Uke | Seminar | Tema | Foreleser | Ressurser | 
 | 9 | 1 | Hjelp til case 1 | Even S. Hvinden | Last ned Case 1 [her](https://www.dropbox.com/s/p4fcefu1vix5ay0/sok1016_case_1.pdf?dl=0). |
 | 11 | 2 | Hjelp til case 1, tentativt | Even S. Hvinden |   |
-| 12 | 3 | Forberede teori til case 2 | Even S. Hvinden |   |
-| 13 | 4 | Hjelp til case 2 | Even S. Hvinden |   |
-| 14 | 5 | Hjelp til case 2, tentativt | Even S. Hvinden |   |
+| 12 | 3 | Ingen undervisning | Even S. Hvinden |   |
+| 13 | 4 | Forberede teori til case 2| Even S. Hvinden | Oppgave 8.1, 8.2, 9.4 og 9.5  |
+| 14 | 5 | Hjelp til case 2 | Even S. Hvinden |  |
 | 16 | 6 | Forberede teori til case 3 | Even S. Hvinden |   |
 | 17 | 7 | Forberede teori til case 3 | Even S. Hvinden |   |
 | 18 | 8 | Hjelp til case 3  | Even S. Hvinden |   |
