@@ -1,3 +1,11 @@
+## Tirsdag 5. april
+
+På tirsdag 5. april vil jeg forelese om finansmarkedet, kapittel 13. Kapittel 12 er kort og i stor grad dekket av tidligere forelesninger, så jeg lar denne være selvstudie. Opptak fra i fjor er tilgjengelige på kursets fellesrom. 
+
+## Onsdag 23 mars 
+
+Jeg har omsider også blitt syk. Resterende undervisning i uke 12 avlyses. Tilbakemelding til case 1 i SOK-1016 blir utsatt. Jeg har derfor flyttet innleveringsfristen frem med én uke til 8 april i WiseFlow. 
+
 ## Torsdag 17. mars
 
 Min sønn har feber og jeg må bli hjemme. Jeg har bedt Øystein Myrland om å vikariere for seminaret i dag. 
