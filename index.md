@@ -4,13 +4,7 @@
 
 ## Siste beskjed
 
-**Forelesning tirsdag 5. april:** På tirsdag 5. april vil jeg forelese om finansmarkedet, kapittel 13. Kapittel 12 er kort og i stor grad dekket av tidligere forelesninger, så jeg lar denne være selvstudie. Opptak fra i fjor er tilgjengelige på kursets fellesrom. 
-
-**SOK-1010 og SOK-1016 23 mars:** Jeg har omsider også blitt syk. Resterende undervisning i uke 12 avlyses. Tilbakemelding til case 1 i SOK-1016 blir utsatt. Jeg har derfor flyttet innleveringsfristen frem med én uke til 8 april i WiseFlow. 
-
-**SOK-1016, 31. mars og 1. april:** Jeg er tilgjengelig for å hjelpe med case 1 og 2. 
-
-**SOK-1016:** Case 2 er lagt ut [her](seminarplan.md). Seminaret i uke 13 og 14 vil bli brukt henholdsvis til å løse relevante oppgaver fra pensum og å få tilbakemelding på arbeidet. Det er lov å samarbeide på oppgaven i grupper på opptil 3 personer. Jeg vil straks opprette et Canvas-rom hvor dere frivillig kan levere besvarelsen før 18. april for å få tilbakmelding.   
+**SOK-1016:** Case 2 er lagt ut [her](seminarplan.md). Seminaret i uke 13 og 14 vil bli brukt henholdsvis til å løse relevante oppgaver fra pensum og å få tilbakemelding på arbeidet. Det er lov å samarbeide på oppgaven i grupper på opptil 3 personer. Jeg vil straks opprette et Canvas-rom hvor dere frivillig kan levere besvarelsen før fredag 22. april for å få tilbakmelding.   
 
 ## Tidligere beskjeder
 
