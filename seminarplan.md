@@ -26,4 +26,6 @@ Det er tillat å arbeide i grupper. Det viser seg at den del gruppearbeid ender 
 
 Case 2 kan lastes ned [her](https://www.dropbox.com/s/n0p84pfachy07wm/sok1016_case_2.pdf?dl=0). Besvarelsen vil telle 25% av sluttkarakteren. Frist for å levere blir fredag 29. april. Dere har mulighet til å levere én gang før 22. april og få tilbakemelding på oppgaven. Jeg vil opprette et Canvas-rom for dette formålet. Dette er et frivillig tilbud.
 
-Det er tillat å arbeide i grupper. Det viser seg at den del gruppearbeid ender i konflikt rett før innleveringsfristen. Etter råd fra administrasjonen vil jeg derfor at dere fyller ut [denne](https://www.dropbox.com/s/kv24wg17ee5fgiy/kontrakt%20gruppearbeid.pdf?dl=0) kontrakten dersom dere skal arbeide i gruppe. Lever denne før 20. mars i det tilhørende Canvas-rommet. 
+## Prosjektoppgave
+
+Prosjektoppgave kan lastes ned [her](https://www.dropbox.com/s/gdw48ifhlzy5fse/sok1016_prosjektoppgave.pdf?dl=0). Besvarelsen vil telle 50% av sluttkarakteren. Frist for å levere blir onsdag 15. juni. Det er tillat å arbeide i grupper på samme måte som case 1 og 2.
