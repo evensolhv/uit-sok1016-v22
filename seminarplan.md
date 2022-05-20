@@ -28,4 +28,4 @@ Case 2 kan lastes ned [her](https://www.dropbox.com/s/n0p84pfachy07wm/sok1016_ca
 
 ## Prosjektoppgave
 
-Prosjektoppgave kan lastes ned [her](https://www.dropbox.com/s/gdw48ifhlzy5fse/sok1016_prosjektoppgave.pdf?dl=0). Besvarelsen vil telle 50% av sluttkarakteren. Frist for å levere blir onsdag 15. juni. Det er tillat å arbeide i grupper på samme måte som case 1 og 2.
+Prosjektoppgave kan lastes ned [her](https://www.dropbox.com/s/gdw48ifhlzy5fse/sok1016_prosjektoppgave.pdf?dl=0). Besvarelsen vil telle 50% av sluttkarakteren. Frist for å levere blir **fredag 10. juni** (ikke onsdag 15. juni). Det er tillat å arbeide i grupper på samme måte som case 1 og 2.
